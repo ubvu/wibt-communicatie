@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "academic-writing": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "skillPath": "research-toolkit/skills/academic-writing/SKILL.md",
+      "computedHash": "f40e04ebe01c708745a229480f46469ec8322fb7539b87d5a8908eb25c177c87"
+    },
+    "ai-writing-detox": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "skillPath": "journalism-core/skills/ai-writing-detox/SKILL.md",
+      "computedHash": "1e862b5de94a12c9ee7cb414866e0e74ea72a60a6affe44bbd04bc274d92894a"
+    },
+    "brainstorming": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "skillPath": "superjawn/skills/brainstorming/SKILL.md",
+      "computedHash": "4d5d663ab58029cd632716681c2778683d68c3b6819590265933e7cc78f9d338"
+    },
+    "fact-check-workflow": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "skillPath": "journalism-core/skills/fact-check-workflow/SKILL.md",
+      "computedHash": "cc0d88007162a20cd361a3a1729a7d651d6b8bbb7cf496598025258a8810fa21"
+    },
+    "newsletter-publishing": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "skillPath": "journalism-core/skills/newsletter-publishing/SKILL.md",
+      "computedHash": "24bf8a55f406c14974ba1f7e7268945de696ce3990b28916b05c303704e2f93f"
+    },
+    "newsroom-style": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "skillPath": "journalism-core/skills/newsroom-style/SKILL.md",
+      "computedHash": "6cfd9bc1a62d531d261015171a3671ae73046365815fbd9d3f58c601529a406a"
+    }
+  }
+}
