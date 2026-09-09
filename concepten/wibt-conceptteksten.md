@@ -68,13 +68,13 @@ Meer weten of dit inzetten voor eigen onderzoek? https://ubvu.github.io/wibt/ of
 
 **Kop:** Open source AI-pijplijn maakt wetenschap begrijpelijk, gebouwd op de SURF AI-hub
 
-Digitale soevereiniteit is meer dan een principe: het project *Wetenschap in begrijpelijke taal* laat zien hoe het in de praktijk werkt. De KB Nationale Bibliotheek, de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour bouwden een multi-agent AI-pijplijn die wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, volledig op open source taalmodellen (waaronder gpt-oss-120b, Gemma3 en TranslateGemma), draaiend op onder meer de SURF AI-hub (WiLLMa).
+Digitale soevereiniteit is meer dan een principe: het project *Wetenschap in begrijpelijke taal* laat zien hoe het in de praktijk werkt. De KB Nationale Bibliotheek, de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour bouwden een multi-agent AI-pijplijn die wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, volledig op open source taalmodellen (waaronder gpt-oss-120b, Gemma3 en TranslateGemma), draaiend op onder meer de SURF AI-hub (WiLLMa, https://aihub.surf.nl, demo via https://aichat.surf.nl).
 
 Geen black-box Big Tech-dienst, maar een open, reproduceerbare pijplijn: open code, open prompts, en evaluatiecijfers die gewoon te controleren zijn. De pijplijn is getoetst op 59 artikelen door de doelgroepen zelf: GZ-psychologen, informatiespecialisten van de Tweede Kamer, onderzoekers en experts.
 
 Voor SURF een concreet voorbeeld van wat de AI-hub mogelijk maakt: onderzoeksinstellingen die zelf, op open infrastructuur, AI-toepassingen met maatschappelijke impact bouwen, zonder afhankelijk te zijn van gesloten commerciële modellen.
 
-Meer weten: https://ubvu.github.io/wibt/ · code: https://github.com/ubvu/wibt-tool
+Meer weten: https://ubvu.github.io/wibt/ · code: https://github.com/ubvu/wibt-tool · AI-hub: https://aihub.surf.nl · demo: https://aichat.surf.nl
 
 ---
 
@@ -172,3 +172,4 @@ Vragen, of interesse om hierop voort te bouwen? Michel Klein.
 - Items 7-9 (Bibliotheekblad, Nieuwsbrief KB, NEWS) staan in het plan als "Actie: Astrid", en item 10 (Nieuwsbrief AI & Behaviour) als Michel's kanaal: dit zijn dus concepten voor hen om te gebruiken of aan te passen, geen teksten die jij zelf plaatst.
 - Items 1-6 zijn net zo goed drafts als 7-10: nog niets hiervan is goedgekeurd of gepost.
 - VUOO-financiering (via Sander Bosch, Chief Open Science VU) en het gebruik van VU Nebula staan al in de acknowledgments van het draft paper; nieuw in item 4 is alleen dat het expliciet voor de VUOO-doelgroep is uitgelicht, op jouw verzoek.
+- Item 5 (SURF Nieuws) verwijst nu naar de actuele SURF-links: https://aihub.surf.nl en https://aichat.surf.nl (fred.surf.nl en willma.surf.nl bestaan niet meer, zelfde fix als op de projectpagina).
