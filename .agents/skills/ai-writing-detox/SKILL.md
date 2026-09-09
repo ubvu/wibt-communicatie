@@ -162,12 +162,20 @@ Good writing is invisible. If readers notice the writing style, it's distracting
 
 **Do instead:** State the actual point without rhetorical setup. The X-not-Y construction is the dominant 2025-2026 ChatGPT/Claude rhetorical signature.
 
-### Em-dash overuse between independent clauses
+### Em-dashes
+
+**Avoid em-dashes entirely, full stop.** Not "in moderation," not "except between independent clauses" — never. They are one of the strongest AI tells, and readers who notice them stop trusting the text.
 
 **Avoid:** "The vote was close — only three council members opposed it — but the measure passed."
 **Avoid:** "Reporters arrived early — the press conference was already underway."
+**Avoid:** "It's not a redesign — it's a rebuild."
 
-**Do instead:** Use commas, periods, or semicolons. Em-dashes are fine in moderation; reflexive use across every paragraph is a tell.
+**Do instead:** Use commas, periods, colons, semicolons, or parentheses. Every one of the examples above rewrites cleanly without a single dash:
+- "The vote was close, with only three council members opposed, but the measure passed."
+- "Reporters arrived early. The press conference was already underway."
+- "It's not a redesign. It's a rebuild."
+
+If a draft has any em-dashes in it, that draft needs another pass before it ships.
 
 ### "The reality is..." / "The truth is..." openers
 
@@ -236,6 +244,7 @@ Search your text for:
 5. "leverage" → just say "use"
 6. "comprehensive" → is this word doing any work?
 7. Starting "So," → delete
+8. "—" (em-dash) → replace with a comma, period, colon, or parentheses
 
 Found any? Your writing needs another pass.
 
