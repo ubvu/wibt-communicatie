@@ -162,6 +162,77 @@ Vragen, of interesse om hierop voort te bouwen? Michel Klein.
 
 ---
 
+## 11. Open access & kennisplatforms (openjournals.nl, ore.eu, openresearch.amsterdam, Kenniscloud)
+
+Geen eigen naam bij dit kanaal in het communicatieplan: dit komt uit de D5-lijst op de projectpagina zelf. Draft voor wie het oppakt.
+
+**Onderwerp:** Wetenschap in begrijpelijke taal: open pijplijn voor publieksvriendelijke samenvattingen
+
+Korte tekst, geschikt om aan te melden bij een open access- of kennisplatform:
+
+*Wetenschap in begrijpelijke taal* is een open, multi-agent AI-pijplijn (KB Nationale Bibliotheek, VU Universiteitsbibliotheek, VU AI & Behaviour) die wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, voor GZ-psychologen, beleidsmedewerkers en een algemeen publiek. Getest op 59 artikelen en beoordeeld door de doelgroepen zelf. Alle code, prompts en resultaten zijn open (CC BY 4.0).
+
+Relevant voor dit platform: dit project overbrugt precies de kloof tussen open access en begrijpelijke toegang.
+
+Project: https://ubvu.github.io/wibt/ · Code: https://github.com/ubvu/wibt-tool
+
+Contact: Maurice Vanderfeesten (maurice.vanderfeesten@vu.nl)
+
+---
+
+## 12. Discovery platforms (WorldCat, OpenAIRE, OpenAlex)
+
+Deze drie zijn geen platforms waar je een tekst naartoe stuurt. Ze harvesten metadata automatisch uit repositories (zoals de VU-IR of Zenodo) zodra daar iets met een DOI wordt gedeponeerd. Er is dus geen aparte inzendtekst, wel is het belangrijk dat de metadata compleet is: titel, samenvatting, auteurs met ORCID, licentie (CC BY 4.0), trefwoorden.
+
+**Herbruikbare samenvatting voor metadata (Engels, voor internationale vindbaarheid):**
+
+"Wetenschap in begrijpelijke taal" (Making Science Understandable) is an open, multi-agent AI pipeline that generates plain-language Dutch summaries of scientific articles for non-academic audiences, including healthcare professionals and policymakers. Built with open-source language models (gpt-oss-120b, Gemma3-12b, TranslateGemma-12b) and evaluated by target-group readers and independent domain experts on readability and factual accuracy. A collaboration between the KB National Library of the Netherlands, Vrije Universiteit Amsterdam University Library, and the VU AI & Behaviour research group.
+
+**Trefwoorden:** open science, plain language summaries, large language models, multi-agent systems, science communication, readability, factuality evaluation
+
+**Actiepunt:** dit metadatablok meenemen bij het deponeren van het technisch rapport en/of paper in de VU-repository en/of Zenodo, zodra die klaar zijn. Zonder deposit met DOI pikken WorldCat, OpenAIRE en OpenAlex het project niet vanzelf op.
+
+---
+
+## 13. Uitgevers (bv. Elsevier)
+
+Geen eigen naam bij dit kanaal in het communicatieplan, komt uit de D5-lijst. Draft voor wie het oppakt.
+
+**Onderwerp:** Open AI-pijplijn voor publieksvriendelijke samenvattingen, ter info
+
+Beste [naam],
+
+Als [rol] bij [uitgever] leek dit project je vast interessant. In *Wetenschap in begrijpelijke taal* bouwden de KB Nationale Bibliotheek, de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour een open source AI-pijplijn die wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijke Nederlandse samenvattingen, getest op 59 artikelen en beoordeeld door de doelgroepen zelf.
+
+Dit sluit aan bij het soort publieksvriendelijke samenvattingen dat [uitgever] al aanbiedt op [platform, bv. ScienceDirect]. Onze aanpak is open source (CC BY 4.0): code, prompts en evaluatiecijfers zijn openbaar.
+
+Interesse om kennis te delen, of dit als voorbeeld te noemen in jullie eigen open-science-communicatie?
+
+Project: https://ubvu.github.io/wibt/
+
+Met vriendelijke groet,
+Maurice Vanderfeesten, VU Universiteitsbibliotheek
+
+---
+
+## 14. UNL Chiefs Open Science (interview, via Darco)
+
+Uit het communicatieplan, groep "Open Science community: Maurice, Sander en Astrid": "Chiefs Open Science via UNL/Darco, onder de aandacht brengen van die 'andere' lezersgroep, in de vorm van een interview." Dit item is dus een interviewpitch, geen los artikel.
+
+**Pitch (voor Darco/UNL):** Zou een interview met iemand van het projectteam over *Wetenschap in begrijpelijke taal* interessant zijn voor de Chiefs Open Science? Het project laat zien hoe Open Science (open data, open modellen, open evaluatie) heel concreet bijdraagt aan toegankelijkheid van onderzoek, en is tegelijk een voorbeeld van AI-gebruik met duidelijke grenzen: menselijke controle blijft nodig.
+
+**Suggestievragen voor het interview:**
+- Wat is het probleem dat jullie oplossen, en waarom is dat een Open Science-vraagstuk?
+- Waarom bewust open source AI in plaats van een commerciële dienst?
+- Wat was de grootste verrassing uit de evaluatie? (bijvoorbeeld: mensen zijn het onderling oneens over leesbaarheid, en het taalmodel zelf komt niet altijd overeen met mensen)
+- Wat zou je andere universiteiten aanraden die iets vergelijkbaars overwegen?
+
+Project: https://ubvu.github.io/wibt/
+
+Contact: Astrid van Wesenbeeck (astrid.vanwesenbeeck@kb.nl), Maurice Vanderfeesten (maurice.vanderfeesten@vu.nl)
+
+---
+
 ## Verificatienotities
 
 - Alle cijfers (N=59 artikelen, N=100 leesbaarheids- / N=49 feitelijkheidsbeoordelingen, 14 beoordelaars leesbaarheid, 5 experts + 13 auteurs feitelijkheid) komen 1-op-1 uit de al goedgekeurde Resultaten-sectie op de projectpagina: geen nieuwe claims.
@@ -173,3 +244,5 @@ Vragen, of interesse om hierop voort te bouwen? Michel Klein.
 - Items 1-6 zijn net zo goed drafts als 7-10: nog niets hiervan is goedgekeurd of gepost.
 - VUOO-financiering (via Sander Bosch, Chief Open Science VU) en het gebruik van VU Nebula staan al in de acknowledgments van het draft paper; nieuw in item 4 is alleen dat het expliciet voor de VUOO-doelgroep is uitgelicht, op jouw verzoek.
 - Item 5 (SURF Nieuws) verwijst nu naar de actuele SURF-links: https://aihub.surf.nl en https://aichat.surf.nl (fred.surf.nl en willma.surf.nl bestaan niet meer, zelfde fix als op de projectpagina).
+- Items 11-14 (open access & kennisplatforms, discovery platforms, uitgevers, UNL Chiefs Open Science) komen uit de "[D5] Communicatiematerialen"-lijst op de projectpagina, niet uit het communicatieplan zelf (behalve item 14, dat wel in het plan staat onder de Open Science-community-groep). Geen van deze vier had al een concepttekst; toegevoegd op jouw verzoek.
+- Item 12 (discovery platforms) is bewust geen inzendtekst: WorldCat, OpenAIRE en OpenAlex harvesten automatisch via metadata bij deposit, dus de tekst legt uit wat daarvoor nodig is in plaats van een niet-bestaande "indien hier"-actie te suggereren.
