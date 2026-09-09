@@ -11,7 +11,7 @@ Projectpagina + resultaten zijn al live; alle teksten hieronder verwijzen daarna
 
 Ongeveer 40% van de lezers van open-access wetenschappelijke artikelen is geen academicus: denk aan beleidsmakers, zorgprofessionals, journalisten. Voor hen is een artikel vol jargon vaak niet te volgen.
 
-In het project *Wetenschap in begrijpelijke taal* bouwden de KB Nationale Bibliotheek, de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour een open AI-pijplijn die wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, met open source taalmodellen, getoetst door de doelgroepen zelf: GZ-psychologen en informatiespecialisten van de Tweede Kamer beoordeelden de leesbaarheid, onderzoekers en onafhankelijke experts checkten de feitelijke juistheid.
+In het project *Wetenschap in begrijpelijke taal* bouwden de KB Nationale Bibliotheek, de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour een open source AI-pijplijn die wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, met open source taalmodellen, getoetst door de doelgroepen zelf: GZ-psychologen en informatiespecialisten van de Tweede Kamer beoordeelden de leesbaarheid, onderzoekers en onafhankelijke experts checkten de feitelijke juistheid.
 
 We testten de pijplijn op 59 artikelen. De samenvattingen scoren goed op feitelijkheid en leesbaarheid. Wel blijft leesbaarheid best subjectief: mensen zijn het er onderling niet altijd over eens.
 
@@ -26,7 +26,7 @@ Benieuwd naar de resultaten, de aanbevelingen en de werkende demo?
 
 Bijna 40% van de lezers van open-access wetenschappelijke artikelen is geen academicus. Een artikel vol jargon is voor hen vaak niet te volgen.
 
-Met KB Nationale Bibliotheek en VU AI & Behaviour bouwden we een open AI-pijplijn die artikelen samenvat en vertaalt naar begrijpelijk Nederlands, getoetst door GZ-psychologen, informatiespecialisten Tweede Kamer én onderzoekers.
+Met KB Nationale Bibliotheek en VU AI & Behaviour bouwden we een open source AI-pijplijn die artikelen samenvat en vertaalt naar begrijpelijk Nederlands, getoetst door GZ-psychologen, informatiespecialisten Tweede Kamer én onderzoekers.
 
 Resultaten & demo: https://ubvu.github.io/wibt/
 
@@ -36,9 +36,9 @@ Resultaten & demo: https://ubvu.github.io/wibt/
 
 ## 3. Nieuwsbrief UB VU
 
-**Kop:** Begrijpelijke samenvattingen van wetenschap, gebouwd met open AI
+**Kop:** Begrijpelijke samenvattingen van wetenschap, gebouwd met open source AI
 
-De VU Universiteitsbibliotheek werkte het afgelopen jaar samen met de KB Nationale Bibliotheek en de VU-vakgroep AI & Behaviour aan *Wetenschap in begrijpelijke taal*: een open AI-pijplijn die wetenschappelijke artikelen omzet in toegankelijke Nederlandse samenvattingen, op maat van GZ-psychologen, beleidsmedewerkers of een algemeen publiek.
+De VU Universiteitsbibliotheek werkte het afgelopen jaar samen met de KB Nationale Bibliotheek en de VU-vakgroep AI & Behaviour aan *Wetenschap in begrijpelijke taal*: een open source AI-pijplijn die wetenschappelijke artikelen omzet in toegankelijke Nederlandse samenvattingen, op maat van GZ-psychologen, beleidsmedewerkers of een algemeen publiek.
 
 De pijplijn is getest op 59 artikelen en beoordeeld door de doelgroepen zelf. De samenvattingen scoren goed op feitelijke juistheid; op leesbaarheid is er ruimte voor verbetering, vooral bij lange of complexe zinnen na vertaling. Een van de aanbevelingen: een mens blijft de samenvatting checken voordat die wordt gepubliceerd.
 
@@ -102,11 +102,11 @@ Alle code, prompts en evaluatiedata zijn open (CC BY 4.0): https://github.com/ub
 
 ## 7. Bibliotheekblad (draft voor Astrid)
 
-**Werktitel:** Hoe bibliotheken wetenschap toegankelijker kunnen maken met open AI
+**Werktitel:** Hoe bibliotheken wetenschap toegankelijker kunnen maken met open source AI
 
 Ongeveer 40% van de lezers van open-access wetenschappelijke artikelen is geen academicus. Voor bibliotheken die zich inzetten voor toegang tot informatie is dat een bekend probleem: een artikel vrij beschikbaar maken is niet hetzelfde als het begrijpelijk maken.
 
-In het project *Wetenschap in begrijpelijke taal* onderzochten de KB Nationale Bibliotheek en de VU Universiteitsbibliotheek, samen met de VU-vakgroep AI & Behaviour, of een open AI-pijplijn hierbij kan helpen. Het resultaat: een systeem dat wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, met open source taalmodellen in plaats van een gesloten commerciële dienst.
+In het project *Wetenschap in begrijpelijke taal* onderzochten de KB Nationale Bibliotheek en de VU Universiteitsbibliotheek, samen met de VU-vakgroep AI & Behaviour, of een open source AI-pijplijn hierbij kan helpen. Het resultaat: een systeem dat wetenschappelijke artikelen samenvat en vertaalt naar begrijpelijk Nederlands, met open source taalmodellen in plaats van een gesloten commerciële dienst.
 
 De pijplijn is getest op 59 artikelen en beoordeeld door de doelgroepen zelf: GZ-psychologen en informatiespecialisten van de Tweede Kamer op leesbaarheid, onderzoekers en onafhankelijke experts op feitelijke juistheid. De uitkomst: samenvattingen die goed scoren op feitelijkheid, en op leesbaarheid al aardig in de buurt komen. Belangrijkste kanttekening: een mens blijft de inhoud checken voordat die naar buiten gaat.
 
@@ -120,7 +120,7 @@ Meer informatie en de demo: https://ubvu.github.io/wibt/
 
 **Kop:** Wetenschap in begrijpelijke taal: de eerste resultaten
 
-Vrije toegang tot de beste informatie is niet genoeg als die informatie niet te begrijpen is. Daarom onderzocht de KB, samen met de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour, of open AI hierbij kan helpen, in het project *Wetenschap in begrijpelijke taal*.
+Vrije toegang tot de beste informatie is niet genoeg als die informatie niet te begrijpen is. Daarom onderzocht de KB, samen met de VU Universiteitsbibliotheek en de VU-vakgroep AI & Behaviour, of open source AI hierbij kan helpen, in het project *Wetenschap in begrijpelijke taal*.
 
 De gebouwde pijplijn zet wetenschappelijke artikelen om in publieksvriendelijke Nederlandse samenvattingen, met open source taalmodellen. Op 59 artikelen getest en beoordeeld door de doelgroepen zelf (GZ-psychologen, informatiespecialisten Tweede Kamer, onderzoekers en experts) scoren de samenvattingen goed op feitelijke juistheid; leesbaarheid blijft, ook voor menselijke beoordelaars onderling, lastiger eenduidig te meten.
 
@@ -134,7 +134,7 @@ Contactpersoon voor dit project: Astrid van Wesenbeeck (astrid.vanwesenbeeck@kb.
 
 ## 9. NEWS (Netwerk Wetenschap en Samenleving, draft voor Astrid, gericht op wetenschapsjournalisten)
 
-**Pitch:** Kan open AI de kloof tussen wetenschap en samenleving dichten, zonder een Big Tech black box te worden?
+**Pitch:** Kan open source AI de kloof tussen wetenschap en samenleving dichten, zonder een Big Tech black box te worden?
 
 Online desinformatie verspreidt zich makkelijk, deels omdat het in simpele, aansprekende taal is geschreven. Betrouwbare wetenschap is dat vaak niet: zo'n 40% van de lezers van open-access artikelen is geen academicus, en jargon houdt hen buiten de deur.
 
